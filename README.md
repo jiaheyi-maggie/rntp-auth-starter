@@ -1,3 +1,3 @@
-# React Native Firebase Login Screen
+# Fall 2021 MDB React Native Training Program
 
-Fall 2021 React Native Training Program -- Firebase Authentication Starter Code
+Firebase Authentication Starter Code
